@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+requests
+mangum
+python-dotenv
+openai==0.28.0
+httpx
+
